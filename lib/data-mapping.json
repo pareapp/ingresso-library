@@ -1,0 +1,23 @@
+{
+  "venueId" :null,
+  "priceBandId":null,
+  "ageBandId":null,
+  "mediaId":null,
+  "title":"event_desc",
+  "description":"event_info_html",
+  "igDateRangeStart":"date_range_start",
+  "igDateRangeEnd":"date_range_end",
+  "event_avail_seats":null,
+  "maxRunTime":"max_running_time",
+  "minRunTime":"min_running_time",
+  "thirdPartyStatus":"event_status",
+  "eventGenders":"",
+  "thirdPartyCostRange": "event_cost_range",
+  "kiddooInTheKnow":"",
+  "eventId":"event_id",
+  "venueType": "",
+  "thirdPartySourceType":"source_code",
+  "eventShowStatus":"",
+  "thirdPartyTermsAndCond":"source_t_and_c",
+  "thirdPartySpecialOffer" : "structured_info.offers.value"
+}
